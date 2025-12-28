@@ -1,5 +1,5 @@
 # odin-recipes
-This is a basic recipes website.
+This is my first project, a basic recipes website using only HTML.
 
 The objective of this project is to demonstrate my newly acquired HTML skills, like:
 
