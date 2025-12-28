@@ -1,2 +1,11 @@
 # odin-recipes
-This is a recipes website.
+This is a basic recipes website.
+
+The objective of this project is to demonstrate my newly acquired HTML skills, like:
+
+- Use of elements, tags and attributes;
+- Writting of the HTML Boilerplate;
+- Creating paragraphs, headings, bold text, italicized text and HTML comments;
+- Creating unordered and ordered lists;
+- Creating links to pages on my own website and other websites;
+- Displaying images on a webpage using HTML.
