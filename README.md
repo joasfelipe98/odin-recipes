@@ -1,11 +1,17 @@
-# odin-recipes
-This is my first project, a basic recipes website using only HTML.
+# Odin Recipes - v2.0
 
-The objective of this project is to demonstrate my newly acquired HTML skills, like:
+This is the evolved version of my first web project. After mastering the basics, I've refactored this recipe website to improve its structure and styling.
 
-- Use of elements, tags and attributes;
-- Writting of the HTML Boilerplate;
-- Creating paragraphs, headings, bold text, italicized text and HTML comments;
-- Creating unordered and ordered lists;
-- Creating links to pages on my own website and other websites;
-- Displaying images on a webpage using HTML.
+[View Live Demo](https://joasfelipe98.github.io/odin-recipes/)
+
+### Objectives
+The main goal is to demonstrate my core Front-End skills, including:
+
+- **Semantic HTML5**: Proper use of elements, tags, and attributes.
+- **Content Formatting**: Creating clear hierarchies with headings, paragraphs, and text formatting.
+- **Lists & Navigation**: Organizing data with ordered/unordered lists and connecting pages via internal/external links.
+- **Media**: Optimized image implementation.
+- **Modern CSS**: Applying styles to create a clean and responsive interface.
+
+---
+*Developed as part of The Odin Project curriculum.*
