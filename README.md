@@ -1,6 +1,6 @@
 # Odin Recipes - v2.0
 
-This is the evolved version of my first web project. After mastering the basics, I've refactored this recipe website to improve its structure and styling.
+This is the evolved version of my first web project. After learning more about the basics, I've refactored this recipe website to improve its structure and styling.
 
 [View Live Demo](https://joasfelipe98.github.io/odin-recipes/)
 
