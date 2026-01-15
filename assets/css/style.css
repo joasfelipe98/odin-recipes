@@ -44,3 +44,27 @@ header h1 {
     border-left: solid 2px rgba(0,0,0,0.3);
 }
 
+.main-container {
+    width: 700px;
+    background-color: #fffdf2;
+    padding: 30px;
+    margin: 15px auto;
+    border-radius: 10px;
+}
+
+.main-container h2 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.footer-container {
+    width: 700px;
+    color: white;
+    background-color: #7a8753;
+    border-radius: 10px;
+    margin: 15px auto;
+    padding: 10px;
+    text-align: center;
+    border-bottom: solid 2px rgba(0,0,0,0.3);
+    border-left: solid 2px rgba(0,0,0,0.3);
+}
